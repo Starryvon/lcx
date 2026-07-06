@@ -31,11 +31,12 @@ lcx 8080 192.168.1.20 80
 ```
 
 运行效果：
-text
+```
 [+] Listening on port 5555
 [+] Forwarding to 192.168.1.10:3389
 [+] Client connected
 [+] Connected to target
+````
 
 # 免责说明
 本工具仅供合法的网络管理、渗透测试学习研究使用
